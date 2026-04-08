@@ -3,5 +3,5 @@
   <a href="contact.html">Contact</a>
 </nav>
 <hr>
-# Creative Robotics Hub 🤖
+# Contact
 Email: creativeroboticshub@email.com
