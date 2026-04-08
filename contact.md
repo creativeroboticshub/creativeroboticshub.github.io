@@ -1,5 +1,5 @@
 <nav>
-  <a href="index.html">Main</a> |
+  <a href="index.html">Home</a> |
   <a href="contact.html">Contact</a>
 </nav>
 <hr>
