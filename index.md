@@ -1,9 +1,10 @@
-# Creative Robotics Hub 🤖
+
 <nav>
   <a href="index.html">Main</a> |
   <a href="contact.html">Contact</a>
 </nav>
 <hr>
+# Creative Robotics Hub 🤖
 Welcome to Creative Robotics Hub!
 
 ## About
