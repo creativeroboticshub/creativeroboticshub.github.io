@@ -9,7 +9,6 @@ Creative Robotics Hub led by the University of the Arts London through the Creat
 - Theatre
 - Dance
 - Fashion
-- 
 
 ## Contact
 Email: creativeroboticshub@email.com
